@@ -1,0 +1,1 @@
+<a href="{{ route('cart.index') }}" class="btn btn-success">View Cart({{ $cart->items?->count() ?? 0 }})</a>
