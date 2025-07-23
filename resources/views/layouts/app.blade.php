@@ -26,7 +26,7 @@
 
   <!-- Page Wrapper -->
   <div id="wrapper"
-    class="d-flex justify-content-center align-items-center {{ !request()->routeIs(['home']) ? 'vh-100' : '' }}">
+    class="d-flex justify-content-center align-items-center">
 
     <!-- Content Wrapper -->
     <div id="content-wrapper" class="d-flex flex-column p-3 m-3">
